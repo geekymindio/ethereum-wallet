@@ -1,6 +1,6 @@
 # eth-wallet
 
-This template should help get you started developing with Vue 3 in Vite.
+A basic implementation for an Ethereum wallet using VUEJS, ethers.js and pinia.
 
 ## Recommended IDE Setup
 
